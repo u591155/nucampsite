@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
+// you can add files from different locations and workspace can pull them up 
